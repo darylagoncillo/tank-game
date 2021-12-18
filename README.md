@@ -1,25 +1,5 @@
 # csc413-tankgame
 
-
-| Student Information |                |
-|:-------------------:|----------------|
-|  Student Name       |   DarylGio Agoncillo    |
-|  Student Email      |   dagoncillo@mail.sfsu.edu   |
-
-## src Folder Purpose 
-src folder is to be used to store source code only.
-
-## resources Folder Purpose 
-resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
-
-`The src and resources folders can be deleted if you want a different file structure`
-
-## jar Folder Purpose 
-The jar folder is to be used to store the built jar of your term-project.
-
-
-# Required Information when Submitting Tank Game
-
 ## Version of Java Used: Java 17.0.1
 
 ## IDE used: IntelliJ Ultimate 2021.1
